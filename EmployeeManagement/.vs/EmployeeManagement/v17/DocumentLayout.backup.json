@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|d:\\udemy_learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\employeemanagement\\employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|d:\\udemy_learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\employeemanagement\\employeemanagement\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|d:\\udemy_learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\employeemanagement\\employeemanagement\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|d:\\udemy_learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\employeemanagement\\employeemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|d:\\udemy_learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\employeemanagement\\employeemanagement\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|d:\\udemy_learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|d:\\udemy_learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\employeemanagement\\employeemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66D2822-5BC4-4364-AE20-1EF0A2E8F1E7}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagement\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:38:57.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:18:58.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Controller\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controller\\EmployeeController.cs",
+              "ToolTip": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Controller\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controller\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:31:55.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Employee.cs",
+              "ToolTip": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:11:07.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T15:07:26.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagement\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:33:54.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Udemy_Learnings\\c_sharp_dot_net_angular_denis_panjuta\\employee_management\\EmployeeManagement\\EmployeeManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:16:26.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
